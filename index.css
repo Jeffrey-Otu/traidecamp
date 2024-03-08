@@ -11,12 +11,13 @@ body{
 
 header{
 	background-color: /*#68016f*//*grey*//*#0a0648*//*#f15f1a*/#fff;
-	height: 50px;
+	height: 100vh;
 	display: flex;
 	width: 100%;
 	position: relative;
-/*	justify-content: space-between;
-*/	/*box-shadow: 2px 2px 4px rgba(0,0,0,0.7)*/;
+	justify-content: space-between;
+	position: sticky;
+/**/	/*box-shadow: 2px 2px 4px rgba(0,0,0,0.7)*/;
 }
 
 h1{
