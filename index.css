@@ -28,8 +28,6 @@ h1{
 	text-shadow: 3px 4px 5px rgba(0,0,0,0.6); 
 	font-family: cursive;
 	letter-spacing: 1px;
-	top: 0;
-	position: sticky;
 }
 
 /*a.home{
