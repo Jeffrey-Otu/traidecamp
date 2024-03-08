@@ -15,9 +15,9 @@ header{
 	display: flex;
 	width: 100%;
 	top: 0;
-	border-bottom: 0.1rem solid grey;
+/* 	border-bottom: 0.1rem solid grey; */
 	position: relative;
-	justify-content: space-between;
+/* 	justify-content: space-between; */
 	position: sticky;
 	
 /**/	/*box-shadow: 2px 2px 4px rgba(0,0,0,0.7)*/;
