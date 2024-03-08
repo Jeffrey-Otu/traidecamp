@@ -13,7 +13,7 @@ header{
 	background-color: /*#68016f*//*grey*//*#0a0648*//*#f15f1a*/#fff;
 	height: 100vh;
 	display: flex;
-	width: 100%;
+	width: 100vh;
 	position: relative;
 	justify-content: space-between;
 	position: sticky;
