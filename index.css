@@ -29,7 +29,8 @@ h1{
 	text-shadow: 3px 4px 5px rgba(0,0,0,0.6); 
 	font-family: cursive;
 	letter-spacing: 1px;
-	
+	top: 0;
+	position: sticky;
 }
 
 /*a.home{
@@ -46,14 +47,6 @@ a.logo{
 	margin-right: 20px;
 	/*height: 50px;*/	
 	color: #fff;
-}
-
-@media screen and (max-width: 480px){
-	a.logo{
-	font-size: 12px;
-	letter-spacing: 3px;
-	width: 100%;
-}
 }
 
 sub{
@@ -424,6 +417,14 @@ a.handles{
 	color: #fff;
 	text-align: center;
 	overflow: hidden;
+}
+
+@media screen and (max-width: 480px){
+	a.logo{
+	font-size: 12px;
+	letter-spacing: 3px;
+	width: 100%;
+}
 }
 
 
