@@ -90,7 +90,8 @@ li.links a:hover{
 	text-decoration-color: #d05115;
 }
 
-button.add-user{
+a.add-user{
+	text-decoration: none;
 	color: #fff;
 	font-family: sans-serif;
 	background: #d05115;
